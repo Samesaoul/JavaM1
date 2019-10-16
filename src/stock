@@ -1,0 +1,3 @@
+public RPNException(String s) {
+		System.out.println("\nException CalculRPN.RPNException: \"" + s + "\" is not a number or an operator.");
+	}
